@@ -25,8 +25,6 @@
    _ O _
    
    _ _ _
-   
-   
   7. game goes on till:
      
      1.X wins
