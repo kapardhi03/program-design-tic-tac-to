@@ -23,8 +23,11 @@
   7. game goes on till:
      
      1.X wins
+     
      2.O wins
+     
      3.More moves are left
+     
      4.Draw.
 
 ## Emerging Requirments
