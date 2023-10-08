@@ -8,18 +8,24 @@
 
 3.We store their names
 
-4. X plays first [rule]
+4.X plays first [rule]
 
 5.They mark their spot.
 
     x _ _
+    
     _ _ _
+    
     _ _ _
+    
 6.O plays:
 
    x _ _
+   
    _ O _
+   
    _ _ _
+   
   7. game goes on till:
      
      1.X wins
